@@ -269,6 +269,14 @@ footer {
   background-color: #0022aa;
 }
 
+.login_block {
+  margin: 100px;
+}
+
+.register_block {
+  margin: 100px;
+}
+
 @media (min-width: 361px) {
   main section article .description {
     transition: 700ms;
