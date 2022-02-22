@@ -277,6 +277,12 @@ footer {
   margin: 100px;
 }
 
+.BB {
+  border-width: 2px;
+  margin: 2px;
+  border-color: #eac926;
+}
+
 @media (min-width: 361px) {
   main section article .description {
     transition: 700ms;
