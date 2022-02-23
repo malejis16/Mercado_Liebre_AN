@@ -296,6 +296,7 @@ footer {
     justify-content: space-between;
     display: flex;
     flex-direction: row;
+    font-size: 8px;
   }
 
   .names1 {
@@ -355,5 +356,9 @@ footer {
   .footer_items {
     display: flex;
     flex-direction: row;
+  }
+
+  header nav {
+    font-size: 16px;
   }
 }
