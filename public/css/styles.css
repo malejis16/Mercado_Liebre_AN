@@ -174,7 +174,7 @@ article div.main-article {
   align-self: flex-end;
   transition: 700ms;
 }
-.fa-truck:hover {
+.main-article:hover .fa-truck {
   transform: rotate(-90deg);
 }
 
