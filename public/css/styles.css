@@ -17,11 +17,15 @@ p {
   font-size: 12px;
 }
 div.top-header {
-  padding: 5%;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 2%;
+  padding-bottom: 2%;
 }
 
 header {
   background-color: #eac926;
+  width: 100%;
 }
 
 .top-header {
@@ -292,7 +296,9 @@ footer {
   }
   header nav {
     align-content: flex-start;
-    padding: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
     justify-content: space-between;
     display: flex;
     flex-direction: row;
